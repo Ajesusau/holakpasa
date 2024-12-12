@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   minishell.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fragamez <fragamez@student.42malaga.c      +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/12 17:27:07 by fragamez          #+#    #+#             */
-/*   Updated: 2024/12/12 17:29:01 by fragamez         ###   ########.fr       */
+/*   Updated: 2024/12/12 17:34:04 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,5 +15,5 @@
 
 int main(void)
 {
-	printf("%d", "Hola Mundo!")
+	printf("Hola Mundo!");
 }
